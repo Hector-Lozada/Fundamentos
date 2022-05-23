@@ -92,7 +92,6 @@ git clone https://github.com/Hector-Lozada/Fundamentos
 ### Ingresar al repositorio
 `
 cd programa
-cd ACTIVIDAD-E2
 `
 ### Para observar codigo del programa
 `
