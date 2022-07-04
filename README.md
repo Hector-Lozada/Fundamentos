@@ -1,7 +1,7 @@
 # Programa en c++ de Héctor Lozada
 
 ## Informacion del autor
-Autor: Héctor Ismael Lozada Escobar
+Autor: Héctor Lozada Escobar
 
 Correo electronico de contacto: soporte.hectorcompany@gmail.com
 
