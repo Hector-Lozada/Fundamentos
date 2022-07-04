@@ -3,7 +3,7 @@
 ## Informacion del autor
 Autor: Héctor Ismael Lozada Escobar
 
-Correo electronico de contacto: hectorscompany@gmail.com
+Correo electronico de contacto: soporte.hectorcompany@gmail.com
 
 
 ## Programas
