@@ -3,9 +3,8 @@
 ## Informacion del autor
 Autor: Héctor Ismael Lozada Escobar
 
-Correo electronico de contacto: hector.lozada.escobar@utelvt.edu.ec
+Correo electronico de contacto: hector'scompany@gmail.com
 
-Video: https://www.youtube.com/watch?v=DHlxZhZWwg0
 
 ## Programas
 Compara.cpp
